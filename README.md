@@ -1,7 +1,7 @@
 ---
 title: MCP HF Project
 emoji: 👍
-colorFrom: black
+colorFrom: indigo
 colorTo: gray
 sdk: gradio
 sdk_version: 5.35.0
