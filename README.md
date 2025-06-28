@@ -1,5 +1,5 @@
 ---
-title: OCR2
+title: MCP HF Project
 emoji: 👍
 colorFrom: black
 colorTo: gray
