@@ -1,8 +1,10 @@
-title: Test
-emoji: ⚡
-colorFrom: pink
-colorTo: blue
+title: OCR2
+emoji: 💻
+colorFrom: blue
+colorTo: gray
 sdk: gradio
-sdk_version: 5.35.0
+sdk_version: 5.34.2
 app_file: app.py
-pinned: false
+pinned: true
+license: apache-2.0
+short_description: nanonets ocr / typhoon ocr / smoldocling / monkey ocr
