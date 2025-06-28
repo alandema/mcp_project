@@ -17,4 +17,5 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
         run: git push https://alan966:$HF_TOKEN@huggingface.co/spaces/alan966/mcp_course_mod_2 main
