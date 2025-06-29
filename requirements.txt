@@ -5,3 +5,4 @@ smolagents[mcp]
 langchain-mcp-adapters
 langgraph
 langchain-google-genai
+huggingface_hub[mcp]
