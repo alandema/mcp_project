@@ -1,3 +1,7 @@
 gradio[mcp]
 python-dotenv
 textblob
+smolagents[mcp]
+langchain-mcp-adapters
+langgraph
+langchain-google-genai
